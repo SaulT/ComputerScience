@@ -4,3 +4,8 @@ Cola original: [ amarillo, rosa, rojo, verde, azul, negro, morado, blanco]
 Cola 1: [ amarillo, rojo, azul, morado]
 Cola 2: [rosa, verde, negro, blanco]
 */
+class Queue{
+    constructor(){
+
+    }
+}
